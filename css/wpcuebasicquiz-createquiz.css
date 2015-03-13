@@ -1477,3 +1477,4 @@ ul.innernumtabs li a{width:73%;border:0;text-align:center;}
 }
 #customcssblock{width:95%;margin:0.5em 0.5em;padding:0.5em 1.5em;}
 .procontent::after{font:400 1.5em/1 dashicons;content: "\f312";color:#B1FB17; vertical-align: -50%;cursor:pointer;cursor:hand;}
+.withoutcolor{background-image:none;background:#f9f9f9;color:black;}
