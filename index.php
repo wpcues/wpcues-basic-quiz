@@ -261,7 +261,7 @@ class wpcues_basic_quiz{
 		*/
 		public function wpcue_proquiz_admin_scripts(){
 			global $wp_version;
-			wp_register_script( 'wpcuebasicquiz-upload', plugins_url( '/js/wpcuebasicquiz-main.js', __FILE__ ),array('jquery','jquery-ui-dialog','jquery-ui-tabs','postbox') );
+			wp_register_script( 'wpcuebasicquiz-upload', plugins_url( '/js/wpcuebasicquiz-main.js', __FILE__ ),array('jquery','jquery-ui-dialog','jquery-ui-tabs','jquery-ui-tooltip','postbox') );
 			wp_register_script('wpcuebasicquiz-questioneditor',plugins_url('/js/wpcuebasicquiz-questioneditor.js',__FILE__),array('jquery','jquery-ui-core','jquery-ui-tabs'));
 			wp_register_script('wpcuebasicquiz-quizeditor',plugins_url('/js/wpcuebasicquiz-quizeditor.js',__FILE__),array('jquery','jquery-ui-core','jquery-ui-tabs'));
 			if( version_compare($wp_version, '3.5', '<')){
