@@ -272,28 +272,7 @@ if(!class_exists('WpCueBasicQuestion'))
 					if(isset($output['coranswer'])){$questmeta['c']=$output['coranswer'];$totalpoint=$output['points'];$questmeta['p']=$output['points'];
 					}else{$totalpoint=0;$questmeta['p']=0;}
 					break;
-				case 7:
-					break;
-				case 8:
-					break;
-				case 9:
-					break;
-				case 10:
-					break;
-				case 11:
-					break;
-				case 12:
-					break;
-				case 13:
-					break;
-				case 14:
-					break;
-				case 15:
-					break;
-				case 16:
-					break;
-				case 17:
-					break;
+				
 			}
 			$questtitle=wpcues_basic_quiz::summary($questmeta['desc'],100,true);
 			if(isset($output['anshint'])){$questmeta['anshint']=$output['anshint'];}
@@ -431,31 +410,6 @@ if(!class_exists('WpCueBasicQuestion'))
 			echo '<option value="7"';
 			if((!(empty($questmeta))) &&($questmeta['t']==7)){echo 'selected';}
 			echo '>'.__('Open Ended','wpcues-basic-quiz').'</option>';
-			echo '<option value="10"';
-			if((!(empty($questmeta))) &&($questmeta['t']==10)){echo 'selected';}
-			echo '>'.__('Name','wpcues-basic-quiz').'</option>';
-			echo '<option value="11"';
-			if((!(empty($questmeta))) &&($questmeta['t']==11)){echo 'selected';}
-			echo '>'.__('Email Id','wpcues-basic-quiz').'</option>';
-			echo '<option value="12"';
-			if((!(empty($questmeta))) &&($questmeta['t']==12)){echo 'selected';}
-			echo '>'.__('Phone Number','wpcues-basic-quiz').'</option>';
-			echo '<option value="13"';
-			if((!(empty($questmeta))) &&($questmeta['t']==13)){echo 'selected';}
-			echo '>'.__('Address','wpcues-basic-quiz').'</option>';
-			echo '<option value="14"';
-			if((!(empty($questmeta))) &&($questmeta['t']==14)){echo 'selected';}
-			echo '>'.__('Date / Time','wpcues-basic-quiz').'</option>';
-			echo '<option value="15"';
-			if((!(empty($questmeta))) &&($questmeta['t']==15)){echo 'selected';}
-			echo '>'.__('Url','wpcues-basic-quiz').'</option>';
-			echo '<option value="16"';
-			if((!(empty($questmeta))) &&($questmeta['t']==16)){echo 'selected';}
-			echo '>'.__('File','wpcues-basic-quiz').'</option>';
-			echo '<option value="17"';
-			if((!(empty($questmeta))) &&($questmeta['t']==17)){echo 'selected';}
-			echo '>'.__('Number','wpcues-basic-quiz').'</option>';
-			
 			echo '</select></div>';
 			echo '<div class="sectool">';
 			$divheader='<div id="addedsectvalues" ';
