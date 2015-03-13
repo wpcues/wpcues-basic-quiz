@@ -48,7 +48,6 @@ class wpcues_basic_quiz{
 			$WpCueBasicLevel= new WpCueBasicLevel();
 			$WpCueBasicProduct= new WpCueBasicProduct();
 			//Show author specific posts and comments
-			add_filter('pre_get_posts', array(&$this, 'filter_postauthor'));
 			add_filter('query_vars', array(&$this,'wpcuequiz_plugin_query_vars'));
 			add_action('template_redirect', array(&$this,'wpcue_templateRedirect'));
 			add_action('wp_ajax_dynamic_css',array(&$this,'dynaminc_css'));
@@ -295,18 +294,6 @@ class wpcues_basic_quiz{
 			wp_enqueue_style('wpcuebasicquiz-createquiz');
 		
 		}
-	
-		public function filter_postauthor($query) {
-			global $wp_version;
-			if (isset($_GET['post_type']) && post_type_exists($_GET['post_type']) && in_array(strtolower($_GET['post_type']), array('wpcuebasicquiz'))) {
-				if ( is_admin() && version_compare($wp_version, '3.1', '>') && is_post_type_archive( array('wpcuebasicquiz') ) ) {
-					$current_user = wp_get_current_user();
-					if(!current_user_can('edit_others_posts')){
-					$query->set( 'author', $current_user->ID );}
-				}
-			}
-            return $query;
-		}  
 		public function wpcue_basicquiz_remwpautop($content){
 			in_array(get_post_type(),array('wpcuebasicquiz','wpcuebasicquestion'))  && remove_filter( 'the_content', 'wpautop' );
 			return $content;
