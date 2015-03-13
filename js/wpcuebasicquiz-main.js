@@ -437,5 +437,5 @@ $("#title").focusout(function() {
 	}
 });
 $('.procontent').attr('title', 'This is WpCues Pro Quiz feature, the premium plugin of which this plugin is light version.');
-$('.procontent').tooltip();
+$('.procontent').tooltip({tooltipClass:'withoutcolor'});
 });
