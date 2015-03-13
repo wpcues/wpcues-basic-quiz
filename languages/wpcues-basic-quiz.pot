@@ -1,0 +1,1567 @@
+# WpCues Basic Quiz
+# Copyright (C) 2015 ...
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wpcues-basic-quiz\n"
+"POT-Creation-Date: 2015-03-12 20:47+0530\n"
+"PO-Revision-Date: 2015-03-12 20:47+0530\n"
+"Last-Translator: \n"
+"Language-Team: WpCues <wpcuesbasicquiz@wpcues.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:443
+msgid ""
+"Show login form in dialog box when login button is clicked. (for quizzes "
+"requiring login)"
+msgstr ""
+
+#: index.php:894 templates/crtificate.php:24
+msgid ""
+"This certificate need admin approval to be issued. You will be notified when "
+"approved."
+msgstr ""
+
+#: index.php:901 templates/crtificate.php:31
+msgid "Please add suitable Grade group to your quiz first"
+msgstr ""
+
+#: post-types/wpcue_basic_badge.php:46
+msgid "Add New Badge"
+msgstr ""
+
+#: post-types/wpcue_basic_badge.php:47
+msgid "New Badge"
+msgstr ""
+
+#: post-types/wpcue_basic_badge.php:48
+msgid "Edit Badge"
+msgstr ""
+
+#: post-types/wpcue_basic_badge.php:49
+msgid "View Badge"
+msgstr ""
+
+#: post-types/wpcue_basic_badge.php:50
+msgid "All Badges"
+msgstr ""
+
+#: post-types/wpcue_basic_badge.php:51
+msgid "Search Badges"
+msgstr ""
+
+#: post-types/wpcue_basic_badge.php:52
+msgid "Parent Badges:"
+msgstr ""
+
+#: post-types/wpcue_basic_badge.php:53
+msgid "No Badges found."
+msgstr ""
+
+#: post-types/wpcue_basic_badge.php:54
+msgid "No Badges found in Trash."
+msgstr ""
+
+#: post-types/wpcue_basic_badge.php:104
+#: post-types/wpcue_basic_certificate.php:100
+#: post-types/wpcue_basic_level.php:105 post-types/wpcue_basic_product.php:95
+#: post-types/wpcue_quiz_action.php:71
+msgid "Edit this item inline"
+msgstr ""
+
+#: post-types/wpcue_basic_badge.php:104
+#: post-types/wpcue_basic_certificate.php:100
+#: post-types/wpcue_basic_level.php:105 post-types/wpcue_basic_product.php:95
+#: post-types/wpcue_quiz_action.php:71
+msgid "Quick&nbsp;Edit"
+msgstr ""
+
+#: post-types/wpcue_basic_badge.php:106
+#: post-types/wpcue_basic_certificate.php:102
+#: post-types/wpcue_basic_level.php:107 post-types/wpcue_basic_product.php:97
+#: post-types/wpcue_quiz_action.php:73
+msgid "Move this item to the Trash"
+msgstr ""
+
+#: post-types/wpcue_basic_badge.php:106
+#: post-types/wpcue_basic_certificate.php:102
+#: post-types/wpcue_basic_level.php:107 post-types/wpcue_basic_product.php:97
+#: post-types/wpcue_quiz_action.php:73
+msgid "Trash"
+msgstr ""
+
+#: post-types/wpcue_basic_badge.php:120
+#: post-types/wpcue_basic_certificate.php:116
+#: post-types/wpcue_basic_error.php:79 post-types/wpcue_basic_level.php:121
+#: post-types/wpcue_basic_product.php:111
+msgid "You are not allowed to move this item to the Trash."
+msgstr ""
+
+#: post-types/wpcue_basic_badge.php:130
+#: post-types/wpcue_basic_certificate.php:126
+#: post-types/wpcue_basic_error.php:88 post-types/wpcue_basic_level.php:131
+#: post-types/wpcue_basic_product.php:121
+msgid "Error in moving to Trash."
+msgstr ""
+
+#: post-types/wpcue_basic_badge.php:143 post-types/wpcue_basic_chart.php:256
+#: post-types/wpcue_basic_gradegroup.php:148
+#: post-types/wpcue_basic_gradegroup.php:193
+#: post-types/wpcue_basic_leaderboard.php:117
+#: post-types/wpcue_basic_leaderboard.php:145
+#: post-types/wpcue_basic_level.php:145
+#: post-types/wpcue_basic_question.php:760
+#: post-types/wpcue_basic_question.php:767
+#: post-types/wpcue_basic_question.php:774
+#: post-types/wpcue_basic_question.php:779
+#: post-types/wpcue_basic_question.php:787
+#: post-types/wpcue_basic_question.php:805
+#: post-types/wpcue_basic_question.php:810
+msgid "Points"
+msgstr ""
+
+#: post-types/wpcue_basic_badge.php:144 post-types/wpcue_basic_chart.php:222
+#: post-types/wpcue_basic_level.php:146
+msgid "%Correct Answer"
+msgstr ""
+
+#: post-types/wpcue_basic_badge.php:145 post-types/wpcue_basic_level.php:147
+msgid "Quizzes"
+msgstr ""
+
+#: post-types/wpcue_basic_badge.php:146 post-types/wpcue_basic_level.php:148
+msgid "Quiz Categories"
+msgstr ""
+
+#: post-types/wpcue_basic_badge.php:147
+msgid "Badge Shortcode"
+msgstr ""
+
+#: post-types/wpcue_basic_certificate.php:41
+msgid "Add New Certificate"
+msgstr ""
+
+#: post-types/wpcue_basic_certificate.php:42
+msgid "New Certificate"
+msgstr ""
+
+#: post-types/wpcue_basic_certificate.php:43
+msgid "Edit Certificate"
+msgstr ""
+
+#: post-types/wpcue_basic_certificate.php:44
+msgid "View Certificate"
+msgstr ""
+
+#: post-types/wpcue_basic_certificate.php:45
+msgid "All Certificates"
+msgstr ""
+
+#: post-types/wpcue_basic_certificate.php:46
+msgid "Search Certificates"
+msgstr ""
+
+#: post-types/wpcue_basic_certificate.php:47
+msgid "Parent Certificates:"
+msgstr ""
+
+#: post-types/wpcue_basic_certificate.php:48
+msgid "No Certificates found."
+msgstr ""
+
+#: post-types/wpcue_basic_certificate.php:49
+msgid "No Certificates found in Trash."
+msgstr ""
+
+#: post-types/wpcue_basic_chart.php:84 post-types/wpcue_basic_question.php:358
+#: post-types/wpcue_basic_question.php:1038 templates/report.php:66
+#: templates/report.php:129 templates/report.php:187
+msgid "Edit"
+msgstr ""
+
+#: post-types/wpcue_basic_chart.php:85 templates/quizstat.php:70
+#: templates/report.php:68 templates/report.php:131 templates/report.php:188
+msgid "Delete"
+msgstr ""
+
+#: post-types/wpcue_basic_chart.php:166
+msgid "Grade"
+msgstr ""
+
+#: post-types/wpcue_basic_chart.php:168 post-types/wpcue_basic_chart.php:195
+#: post-types/wpcue_basic_chart.php:224
+msgid "Number of Users"
+msgstr ""
+
+#: post-types/wpcue_basic_chart.php:193
+msgid "Point"
+msgstr ""
+
+#: post-types/wpcue_basic_chart.php:254 post-types/wpcue_basic_chart.php:289
+#: post-types/wpcue_basic_question.php:84
+msgid "Question Category"
+msgstr ""
+
+#: post-types/wpcue_basic_chart.php:291
+msgid "% Correct"
+msgstr ""
+
+#: post-types/wpcue_basic_error.php:42
+msgid "Add New Error"
+msgstr ""
+
+#: post-types/wpcue_basic_error.php:43
+msgid "New Error"
+msgstr ""
+
+#: post-types/wpcue_basic_error.php:44
+msgid "Edit Error"
+msgstr ""
+
+#: post-types/wpcue_basic_error.php:45
+msgid "View Error"
+msgstr ""
+
+#: post-types/wpcue_basic_error.php:46
+msgid "All Errors"
+msgstr ""
+
+#: post-types/wpcue_basic_error.php:47
+msgid "Search Errors"
+msgstr ""
+
+#: post-types/wpcue_basic_error.php:48
+msgid "Parent Errors:"
+msgstr ""
+
+#: post-types/wpcue_basic_error.php:49
+msgid "No Errors found."
+msgstr ""
+
+#: post-types/wpcue_basic_error.php:50
+msgid "No Errors found in Trash."
+msgstr ""
+
+#: post-types/wpcue_basic_gradegroup.php:50
+msgid "Add New Grade Group"
+msgstr ""
+
+#: post-types/wpcue_basic_gradegroup.php:51
+msgid "New Grade Group"
+msgstr ""
+
+#: post-types/wpcue_basic_gradegroup.php:52
+msgid "Edit Grade Group"
+msgstr ""
+
+#: post-types/wpcue_basic_gradegroup.php:53
+msgid "View Grade Group"
+msgstr ""
+
+#: post-types/wpcue_basic_gradegroup.php:54
+msgid "All Grade Group"
+msgstr ""
+
+#: post-types/wpcue_basic_gradegroup.php:55
+msgid "Search Grade Group"
+msgstr ""
+
+#: post-types/wpcue_basic_gradegroup.php:56
+msgid "Parent Grade Group:"
+msgstr ""
+
+#: post-types/wpcue_basic_gradegroup.php:57
+msgid "No Grade Group found."
+msgstr ""
+
+#: post-types/wpcue_basic_gradegroup.php:58
+msgid "No Grade Group found in Trash."
+msgstr ""
+
+#: post-types/wpcue_basic_gradegroup.php:142
+msgid "Enter Grade Group Name here"
+msgstr ""
+
+#: post-types/wpcue_basic_gradegroup.php:145 templates/report.php:210
+#: templates/report.php:233
+msgid "Based on"
+msgstr ""
+
+#: post-types/wpcue_basic_gradegroup.php:150
+#: post-types/wpcue_basic_leaderboard.php:125
+#: post-types/wpcue_basic_leaderboard.php:153
+#: post-types/wpcue_basic_question.php:681 templates/report.php:214
+#: templates/report.php:237
+msgid "Correct Answers"
+msgstr ""
+
+#: post-types/wpcue_basic_gradegroup.php:151
+msgid "Add New Grade"
+msgstr ""
+
+#: post-types/wpcue_basic_gradegroup.php:172
+msgid "Cancel Grade Group"
+msgstr ""
+
+#: post-types/wpcue_basic_gradegroup.php:174
+msgid "Save Grade Group"
+msgstr ""
+
+#: post-types/wpcue_basic_gradegroup.php:190
+msgid "Grade Title"
+msgstr ""
+
+#: post-types/wpcue_basic_gradegroup.php:191
+msgid "Grade Description"
+msgstr ""
+
+#: post-types/wpcue_basic_gradegroup.php:193
+msgid "%Correct Answers"
+msgstr ""
+
+#: post-types/wpcue_basic_gradegroup.php:195
+msgid "to"
+msgstr ""
+
+#: post-types/wpcue_basic_gradegroup.php:196
+msgid "Assign Certificate"
+msgstr ""
+
+#: post-types/wpcue_basic_gradegroup.php:197
+msgid "Select any certificate"
+msgstr ""
+
+#: post-types/wpcue_basic_leaderboard.php:117
+#: post-types/wpcue_basic_leaderboard.php:125
+#: post-types/wpcue_basic_leaderboard.php:145
+#: post-types/wpcue_basic_leaderboard.php:153
+#: post-types/wpcue_basic_leaderboard.php:173
+#: templates/emailnotification.php:2 templates/report.php:331
+msgid "User"
+msgstr ""
+
+#: post-types/wpcue_basic_leaderboard.php:139
+msgid "Nobody has taken this quiz right now."
+msgstr ""
+
+#: post-types/wpcue_basic_leaderboard.php:141
+msgid "Donot have assigned quiz"
+msgstr ""
+
+#: post-types/wpcue_basic_leaderboard.php:173
+msgid "Number of Quizzes taken"
+msgstr ""
+
+#: post-types/wpcue_basic_level.php:47
+msgid "Add New Level"
+msgstr ""
+
+#: post-types/wpcue_basic_level.php:48
+msgid "New Level"
+msgstr ""
+
+#: post-types/wpcue_basic_level.php:49
+msgid "Edit Level"
+msgstr ""
+
+#: post-types/wpcue_basic_level.php:50
+msgid "View Level"
+msgstr ""
+
+#: post-types/wpcue_basic_level.php:51
+msgid "All Levels"
+msgstr ""
+
+#: post-types/wpcue_basic_level.php:52
+msgid "Search Levels"
+msgstr ""
+
+#: post-types/wpcue_basic_level.php:53
+msgid "Parent Levels:"
+msgstr ""
+
+#: post-types/wpcue_basic_level.php:54
+msgid "No Levels found."
+msgstr ""
+
+#: post-types/wpcue_basic_level.php:55
+msgid "No Levels found in Trash."
+msgstr ""
+
+#: post-types/wpcue_basic_level.php:144
+msgid "Rank"
+msgstr ""
+
+#: post-types/wpcue_basic_product.php:50
+msgid "Add New Product"
+msgstr ""
+
+#: post-types/wpcue_basic_product.php:51
+msgid "New Product"
+msgstr ""
+
+#: post-types/wpcue_basic_product.php:52
+msgid "Edit Product"
+msgstr ""
+
+#: post-types/wpcue_basic_product.php:53
+msgid "View Product"
+msgstr ""
+
+#: post-types/wpcue_basic_product.php:54
+msgid "All Products"
+msgstr ""
+
+#: post-types/wpcue_basic_product.php:55
+msgid "Search Products"
+msgstr ""
+
+#: post-types/wpcue_basic_product.php:56
+msgid "Parent Products:"
+msgstr ""
+
+#: post-types/wpcue_basic_product.php:57
+msgid "No Products found."
+msgstr ""
+
+#: post-types/wpcue_basic_product.php:58
+msgid "No Products found in Trash."
+msgstr ""
+
+#: post-types/wpcue_basic_product.php:148
+msgid "Select All"
+msgstr ""
+
+#: post-types/wpcue_basic_product.php:204
+msgid "Add"
+msgstr ""
+
+#: post-types/wpcue_basic_product.php:206
+#: post-types/wpcue_basic_question.php:510
+msgid "Cancel"
+msgstr ""
+
+#: post-types/wpcue_basic_product.php:296
+msgid "Product Shortcode"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:49
+msgid "Add New Question"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:50
+msgid "New Question"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:51
+msgid "Edit Question"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:52
+msgid "View Question"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:53
+msgid "All Questions"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:54
+msgid "Search Questions"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:55
+msgid "Parent Questions:"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:56
+msgid "No Questions found."
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:57
+msgid "No Questions found in Trash."
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:76
+msgid "Search Question Categories"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:77
+msgid "All Question Categories"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:78
+msgid "Parent Question Category"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:79
+msgid "Parent Question Category:"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:80
+msgid "Edit Question Category"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:81
+msgid "Update Question Category"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:82
+msgid "Add New Question Category"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:83
+msgid "New Question Category Name"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:358
+#: post-types/wpcue_basic_question.php:1038
+msgid "Remove"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:360
+#: post-types/wpcue_basic_question.php:1040
+msgid "Change Question Order"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:360
+#: post-types/wpcue_basic_question.php:1040
+msgid "change answer order"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:409
+msgid "Question:"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:412
+msgid "Select Question type"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:415
+msgid "Multiple Choice : Single Correct"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:418
+msgid "Multiple Choice : Multiple Correct"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:421
+msgid "Match the answers"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:424
+msgid "Sort the values"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:427
+msgid "Fill the gaps"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:430
+msgid "True False"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:433
+msgid "Open Ended"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:436
+msgid "Name"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:439
+msgid "Email Id"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:442
+msgid "Phone Number"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:445
+msgid "Address"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:448
+msgid "Date / Time"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:451
+msgid "Url"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:454
+msgid "File"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:457
+msgid "Number"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:464
+msgid "Select Section"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:480
+msgid "Select Question Category"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:509
+msgid "Save Question"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:683
+msgid "Answer"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:684
+msgid "Hint"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:684
+msgid "Correct Answer Description"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:715
+msgid "Left Column"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:715
+msgid "Right Column"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:720
+msgid "Add Answer"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:761
+#: post-types/wpcue_basic_question.php:768
+#: post-types/wpcue_basic_question.php:780
+#: post-types/wpcue_basic_question.php:797 templates/report.php:336
+msgid "Correct Answer"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:782
+msgid ""
+"Please enter whatever your correct matching order is, as \"1,1\",\"2,3\","
+"\"3,4\",\"4,2\"."
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:788
+msgid "Correct Answerwpcues-basic-quiz"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:790
+msgid ""
+"Please enter whatever your correct sorting order as 1,2,3,4 or 2,4,3,1 i.e. "
+"separated by comma."
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:798
+msgid "True"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:801
+msgid "False"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:813
+msgid "Award weighted point to partial correct answers"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:984
+#: post-types/wpcue_basic_question.php:1049
+#: post-types/wpcue_basic_section.php:42
+msgid "Edit Section"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:986
+#: post-types/wpcue_basic_question.php:1050
+msgid "Remove Section"
+msgstr ""
+
+#: post-types/wpcue_basic_question.php:988
+msgid "Delete Section"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:55
+msgid "Add New Quiz"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:56
+msgid "New Quiz"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:57
+msgid "Edit Quiz"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:58
+msgid "View Quiz"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:59
+msgid "All Quizzes"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:60
+msgid "Search Quizzes"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:61
+msgid "Parent Quizzes:"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:62
+msgid "No Quizzes found."
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:63
+msgid "No Quizzes found in Trash."
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:84
+msgid "Search Quiz Categories"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:85
+msgid "All Quiz Categories"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:86
+msgid "Parent Quiz Category"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:87
+msgid "Parent Quiz Category:"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:88
+msgid "Edit Quiz Category"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:89
+msgid "Update Quiz Category"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:90
+msgid "Add New Quiz Category"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:91
+msgid "New Quiz Category Name"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:92
+msgid "Quiz Category"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:103
+msgid "Uncategorized"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:620
+msgid "save"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:626 templates/report.php:46
+#: templates/report.php:51 templates/report.php:110 templates/report.php:115
+#: templates/report.php:167 templates/report.php:172
+msgid "Title"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:627
+msgid "Description"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:815
+msgid "Sort column A to match to column B entries"
+msgstr ""
+
+#: post-types/wpcue_basic_quiz.php:816
+msgid "Sort column B to match to column A entries"
+msgstr ""
+
+#: post-types/wpcue_basic_section.php:40
+msgid "Add New Section"
+msgstr ""
+
+#: post-types/wpcue_basic_section.php:41
+msgid "New Section"
+msgstr ""
+
+#: post-types/wpcue_basic_section.php:43
+msgid "View Section"
+msgstr ""
+
+#: post-types/wpcue_basic_section.php:44
+msgid "All Sections"
+msgstr ""
+
+#: post-types/wpcue_basic_section.php:45
+msgid "Search Sections"
+msgstr ""
+
+#: post-types/wpcue_basic_section.php:46
+msgid "Parent Sections:"
+msgstr ""
+
+#: post-types/wpcue_basic_section.php:47
+msgid "No Sections found."
+msgstr ""
+
+#: post-types/wpcue_basic_section.php:48
+msgid "No Sections found in Trash."
+msgstr ""
+
+#: post-types/wpcue_quiz_action.php:40
+msgid "Number of Questions"
+msgstr ""
+
+#: post-types/wpcue_quiz_action.php:41
+msgid "Quiz Shortcode"
+msgstr ""
+
+#: post-types/wpcue_quiz_action.php:77
+#, php-format
+msgid "View &#8220;%s&#8221;"
+msgstr ""
+
+#: post-types/wpcue_quiz_action.php:77 templates/quizstat.php:69
+msgid "View"
+msgstr ""
+
+#: post-types/wpcue_quiz_action.php:93 templates/report.php:46
+#: templates/report.php:51 templates/report.php:110 templates/report.php:115
+#: templates/report.php:167 templates/report.php:172
+msgid "Shortcode"
+msgstr ""
+
+#: templates/adderror.php:71 templates/addnewquestion.php:31
+#: templates/addnewsection.php:33 templates/createquiz.php:31
+#: templates/edit-badge-form.php:74 templates/edit-certificate-form.php:60
+#: templates/edit-level-form.php:56 templates/edit-product-form.php:45
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: templates/adderror.php:202 templates/addnewquestion.php:78
+#: templates/addnewsection.php:118 templates/edit-badge-form.php:214
+#: templates/edit-certificate-form.php:171 templates/edit-level-form.php:184
+#: templates/edit-product-form.php:235 templates/quiz_submit_box.php:59
+msgid "Delete Permanently"
+msgstr ""
+
+#: templates/adderror.php:204 templates/addnewquestion.php:80
+#: templates/addnewsection.php:120 templates/edit-badge-form.php:216
+#: templates/edit-certificate-form.php:173 templates/edit-level-form.php:186
+#: templates/edit-product-form.php:237 templates/quiz_submit_box.php:61
+msgid "Move to Trash"
+msgstr ""
+
+#: templates/adderror.php:216 templates/edit-badge-form.php:228
+#: templates/edit-certificate-form.php:185 templates/edit-level-form.php:198
+#: templates/edit-product-form.php:249 templates/quiz_submit_box.php:50
+msgid "Save"
+msgstr ""
+
+#: templates/addnewquestion.php:92 templates/addnewsection.php:132
+#: templates/edit-certificate-form.php:153 templates/edit-product-form.php:191
+#: templates/quiz_submit_box.php:3 templates/quiz_submit_box.php:77
+msgid "Publish"
+msgstr ""
+
+#: templates/edit-certificate-form.php:108
+msgid "Certificate updated"
+msgstr ""
+
+#: templates/edit-certificate-form.php:109
+msgid "Certificate Saved"
+msgstr ""
+
+#: templates/edit-certificate-form.php:117
+#: templates/edit-certificate-form.php:118
+msgid "Enter Certificate Name here"
+msgstr ""
+
+#: templates/edit-certificate-form.php:122
+msgid ""
+"Please enter html along with css that you want to apply in your certificate."
+msgstr ""
+
+#: templates/edit-certificate-form.php:128 templates/emailnotification.php:20
+#: templates/progresscreen.php:12 templates/progresscreen.php:48
+msgid "Usable  Variables"
+msgstr ""
+
+#: templates/edit-certificate-form.php:129
+msgid "(All the variables can be used in grade descriptions as well.)"
+msgstr ""
+
+#: templates/edit-certificate-form.php:132 templates/emailnotification.php:23
+#: templates/progresscreen.php:16 templates/progresscreen.php:52
+msgid "Variable"
+msgstr ""
+
+#: templates/edit-certificate-form.php:132 templates/emailnotification.php:23
+#: templates/progresscreen.php:16 templates/progresscreen.php:52
+msgid "Value"
+msgstr ""
+
+#: templates/edit-certificate-form.php:136 templates/emailnotification.php:29
+#: templates/progresscreen.php:21
+#, php-format
+msgid "%%POINTS%%"
+msgstr ""
+
+#: templates/edit-certificate-form.php:136 templates/emailnotification.php:29
+#: templates/progresscreen.php:21
+msgid "Total points scored"
+msgstr ""
+
+#: templates/edit-certificate-form.php:137 templates/emailnotification.php:31
+#: templates/progresscreen.php:23
+#, php-format
+msgid "%%GRADE%%"
+msgstr ""
+
+#: templates/edit-certificate-form.php:137 templates/emailnotification.php:31
+#: templates/progresscreen.php:23
+msgid "Assigned Grade"
+msgstr ""
+
+#: templates/edit-certificate-form.php:138 templates/emailnotification.php:33
+#: templates/progresscreen.php:25
+#, php-format
+msgid "%%QUIZNAME%%"
+msgstr ""
+
+#: templates/edit-certificate-form.php:138 templates/emailnotification.php:33
+#: templates/progresscreen.php:25
+msgid "Quiz Name"
+msgstr ""
+
+#: templates/edit-certificate-form.php:139 templates/emailnotification.php:36
+#: templates/progresscreen.php:28
+#, php-format
+msgid "%%DATE%%"
+msgstr ""
+
+#: templates/edit-certificate-form.php:139 templates/emailnotification.php:36
+#: templates/progresscreen.php:28
+msgid "Date on which quiz is taken"
+msgstr ""
+
+#: templates/edit-certificate-form.php:140 templates/emailnotification.php:38
+#: templates/progresscreen.php:30
+#, php-format
+msgid "%%USERNAME%%"
+msgstr ""
+
+#: templates/edit-certificate-form.php:140 templates/emailnotification.php:38
+#: templates/progresscreen.php:30
+msgid "User Name"
+msgstr ""
+
+#: templates/edit-certificate-form.php:158
+msgid "Requires admin approval to be issued"
+msgstr ""
+
+#: templates/edit-certificate-form.php:160
+msgid "Issue certificate as"
+msgstr ""
+
+#: templates/edit-certificate-form.php:161
+msgid "pdf"
+msgstr ""
+
+#: templates/edit-certificate-form.php:162
+msgid "HTML"
+msgstr ""
+
+#: templates/edit-product-form.php:121
+msgid "Product updated"
+msgstr ""
+
+#: templates/edit-product-form.php:122
+msgid "Product Saved"
+msgstr ""
+
+#: templates/edit-product-form.php:132 templates/edit-product-form.php:133
+msgid "Enter Product Name here"
+msgstr ""
+
+#: templates/emailnotification.php:2
+msgid "Admin"
+msgstr ""
+
+#: templates/emailnotification.php:6 templates/emailnotification.php:14
+#, php-format
+msgid "Quiz Results For %%QUIZNAME%%"
+msgstr ""
+
+#: templates/emailnotification.php:7 templates/emailnotification.php:15
+msgid "Subject"
+msgstr ""
+
+#: templates/emailnotification.php:8
+#, php-format
+msgid ""
+"%%USERNAME%% has taken the quiz %%QUIZNAME%% on %%DATE%%.The report is as "
+"follows : %%REPORT%%"
+msgstr ""
+
+#: templates/emailnotification.php:16
+#, php-format
+msgid "Thanks %%USERNAME%% for taking %%QUIZNAME%% quiz."
+msgstr ""
+
+#: templates/emailnotification.php:26
+#, php-format
+msgid "%%RESULT%%"
+msgstr ""
+
+#: templates/emailnotification.php:26
+msgid "Result obtained as per user replies"
+msgstr ""
+
+#: templates/emailnotification.php:27 templates/progresscreen.php:19
+#, php-format
+msgid "%%CORRECT%%"
+msgstr ""
+
+#: templates/emailnotification.php:27 templates/progresscreen.php:19
+msgid "Number of correct answers"
+msgstr ""
+
+#: templates/emailnotification.php:28 templates/progresscreen.php:20
+#, php-format
+msgid "%%TOTAL%%"
+msgstr ""
+
+#: templates/emailnotification.php:28 templates/progresscreen.php:20
+msgid "Total number of questions"
+msgstr ""
+
+#: templates/emailnotification.php:30 templates/progresscreen.php:22
+#, php-format
+msgid "%%MAXPOINTS%%"
+msgstr ""
+
+#: templates/emailnotification.php:30 templates/progresscreen.php:22
+msgid "Maximum number of points"
+msgstr ""
+
+#: templates/emailnotification.php:32 templates/progresscreen.php:24
+#, php-format
+msgid "%%GDESC%%"
+msgstr ""
+
+#: templates/emailnotification.php:32 templates/progresscreen.php:24
+msgid "Show grade detail"
+msgstr ""
+
+#: templates/emailnotification.php:34 templates/progresscreen.php:26
+#, php-format
+msgid "%%UNTRIED%%"
+msgstr ""
+
+#: templates/emailnotification.php:34 templates/progresscreen.php:26
+msgid "Number of questions not attempted"
+msgstr ""
+
+#: templates/emailnotification.php:35
+msgid "%%WRONG%"
+msgstr ""
+
+#: templates/emailnotification.php:35 templates/progresscreen.php:27
+msgid "Number of wrong answers"
+msgstr ""
+
+#: templates/emailnotification.php:37 templates/progresscreen.php:29
+#, php-format
+msgid "%%EMAIL%%"
+msgstr ""
+
+#: templates/emailnotification.php:37 templates/progresscreen.php:29
+msgid "User Email Address"
+msgstr ""
+
+#: templates/emailnotification.php:39 templates/progresscreen.php:31
+#, php-format
+msgid "%%AVGPOINTS%%"
+msgstr ""
+
+#: templates/emailnotification.php:39 templates/progresscreen.php:31
+msgid "Shows the average points scored by others who took the same quiz"
+msgstr ""
+
+#: templates/emailnotification.php:40 templates/progresscreen.php:32
+#, php-format
+msgid "%%AVGCORRECT%%"
+msgstr ""
+
+#: templates/emailnotification.php:40 templates/progresscreen.php:32
+msgid ""
+"Shows the perecentage average correct answers given by others who took the "
+"same quiz"
+msgstr ""
+
+#: templates/emailnotification.php:41 templates/progresscreen.php:33
+#, php-format
+msgid "%%TIMEALLOWED%%"
+msgstr ""
+
+#: templates/emailnotification.php:41 templates/progresscreen.php:33
+msgid "Time allowed"
+msgstr ""
+
+#: templates/emailnotification.php:42 templates/progresscreen.php:34
+#, php-format
+msgid "%%TIMEUSED%%"
+msgstr ""
+
+#: templates/emailnotification.php:42 templates/progresscreen.php:34
+msgid "Time used"
+msgstr ""
+
+#: templates/emailnotification.php:43 templates/progresscreen.php:36
+#, php-format
+msgid "%%REPORT%%"
+msgstr ""
+
+#: templates/emailnotification.php:43 templates/progresscreen.php:36
+msgid "Complete Question answer report (log) with answers marked by user"
+msgstr ""
+
+#: templates/progresscreen.php:3
+msgid "Final Screen"
+msgstr ""
+
+#: templates/progresscreen.php:4
+msgid "Intermediate Screen"
+msgstr ""
+
+#: templates/progresscreen.php:5
+msgid "Completion Screen"
+msgstr ""
+
+#: templates/progresscreen.php:10
+#, php-format
+msgid "<p>Congratulations - you have completed %%QUIZNAME%%.<br/></p>"
+msgstr ""
+
+#: templates/progresscreen.php:13
+msgid "All the variables can be used in grade descriptions as well"
+msgstr ""
+
+#: templates/progresscreen.php:27
+#, php-format
+msgid "%%WRONG%%"
+msgstr ""
+
+#: templates/progresscreen.php:35
+#, php-format
+msgid "%%SOCIALSHARE%%"
+msgstr ""
+
+#: templates/progresscreen.php:35
+msgid "Social Share Buttons"
+msgstr ""
+
+#: templates/progresscreen.php:37
+#, php-format
+msgid "%%CERTIFICATE%%"
+msgstr ""
+
+#: templates/progresscreen.php:37
+msgid "Certificate"
+msgstr ""
+
+#: templates/progresscreen.php:38
+#, php-format
+msgid "%%CERTIFICATELINK%%"
+msgstr ""
+
+#: templates/progresscreen.php:38
+msgid "Certificate Url to be opened in new tab/window"
+msgstr ""
+
+#: templates/progresscreen.php:43
+msgid "This screen will be shown when user has not completed the test."
+msgstr ""
+
+#: templates/progresscreen.php:45
+#, php-format
+msgid "<p>You have %%PERCENTQUEST%% completed the quiz %%QUIZNAME%%.</p>"
+msgstr ""
+
+#: templates/progresscreen.php:49
+msgid ""
+"You can use variables allowed for final screen here also.Additionally, you "
+"can also use following variables."
+msgstr ""
+
+#: templates/progresscreen.php:56
+#, php-format
+msgid "%%PERCENTPOINT%%"
+msgstr ""
+
+#: templates/progresscreen.php:56
+msgid "Percentage Completion on the Basis of Points"
+msgstr ""
+
+#: templates/progresscreen.php:57
+#, php-format
+msgid "%%PERCENTQUEST%%"
+msgstr ""
+
+#: templates/progresscreen.php:57
+msgid "Percentage Completion on the Basis of Questions tried"
+msgstr ""
+
+#: templates/progresscreen.php:62
+msgid ""
+"This screen will be shown when user has completed the test and he can not "
+"take test again."
+msgstr ""
+
+#: templates/progresscreen.php:63
+msgid "You can use variables allowed for final screen here."
+msgstr ""
+
+#: templates/progresscreen.php:65
+#, php-format
+msgid "<p>You have completed the quiz %%QUIZNAME%%.</p>"
+msgstr ""
+
+#: templates/quiz_submit_box.php:9
+msgid "Quiz Duration (in minutes)"
+msgstr ""
+
+#: templates/quiz_submit_box.php:10
+msgid "Questions per page"
+msgstr ""
+
+#: templates/quiz_submit_box.php:12 templates/quiz_submit_box.php:38
+msgid "All"
+msgstr ""
+
+#: templates/quiz_submit_box.php:25
+msgid "Notify me when someone takes quiz"
+msgstr ""
+
+#: templates/quiz_submit_box.php:26
+msgid "Send email to user"
+msgstr ""
+
+#: templates/quiz_submit_box.php:27
+msgid "Mode"
+msgstr ""
+
+#: templates/quiz_submit_box.php:27
+msgid "Exam"
+msgstr ""
+
+#: templates/quiz_submit_box.php:27
+msgid "Practice"
+msgstr ""
+
+#: templates/quiz_submit_box.php:28
+msgid "Login required to take quiz"
+msgstr ""
+
+#: templates/quiz_submit_box.php:30
+msgid "Number of times user can take quiz"
+msgstr ""
+
+#: templates/quiz_submit_box.php:34
+msgid "Minimum time interval between each try (in minutes)"
+msgstr ""
+
+#: templates/quiz_submit_box.php:37
+msgid "Disclose Answers in report"
+msgstr ""
+
+#: templates/quiz_submit_box.php:39
+msgid "None"
+msgstr ""
+
+#: templates/quiz_submit_box.php:40
+msgid "only Tried"
+msgstr ""
+
+#: templates/quiz_submit_box.php:41
+msgid "Only tried and correct"
+msgstr ""
+
+#: templates/quiz_submit_box.php:74
+msgid "Schedule"
+msgstr ""
+
+#: templates/quiz_submit_box.php:81
+msgid "Submit for Review"
+msgstr ""
+
+#: templates/quiz_submit_box.php:86
+msgid "Update"
+msgstr ""
+
+#: templates/quizrightsidebar.php:4 templates/quizsetting.php:3
+msgid "Randomization"
+msgstr ""
+
+#: templates/quizrightsidebar.php:9
+msgid "Randomize Questions"
+msgstr ""
+
+#: templates/quizrightsidebar.php:10
+msgid "Randomize Answers"
+msgstr ""
+
+#: templates/quizrightsidebar.php:11
+msgid "Group Questions by Categories"
+msgstr ""
+
+#: templates/quizrightsidebar.php:14
+msgid "Exclude Sections from randomization."
+msgstr ""
+
+#: templates/quizrightsidebar.php:38
+msgid "Categories"
+msgstr ""
+
+#: templates/quizrightsidebar.php:50 templates/quizrightsidebar.php:53
+#: templates/quizrightsidebar.php:58
+msgid "Add New Category"
+msgstr ""
+
+#: templates/quizrightsidebar.php:56
+msgid "Parent Category"
+msgstr ""
+
+#: templates/quizrightsidebar.php:69 templates/quizsetting.php:5
+msgid "Display"
+msgstr ""
+
+#: templates/quizrightsidebar.php:74
+msgid "Show timer"
+msgstr ""
+
+#: templates/quizrightsidebar.php:75
+msgid "Do not show description"
+msgstr ""
+
+#: templates/quizrightsidebar.php:76
+msgid "Do not show start button"
+msgstr ""
+
+#: templates/quizrightsidebar.php:77
+msgid "Show Submit button at every page"
+msgstr ""
+
+#: templates/quizrightsidebar.php:78
+msgid "Do not show intermediate screen"
+msgstr ""
+
+#: templates/quizrightsidebar.php:79
+msgid "Do not show Continue button"
+msgstr ""
+
+#: templates/quizrightsidebar.php:80
+msgid "Show Save button"
+msgstr ""
+
+#: templates/quizrightsidebar.php:87
+msgid "Question tools"
+msgstr ""
+
+#: templates/quizrightsidebar.php:92
+msgid "View correct answer"
+msgstr ""
+
+#: templates/quizrightsidebar.php:93
+msgid "View hint"
+msgstr ""
+
+#: templates/quizrightsidebar.php:94
+msgid "Report error"
+msgstr ""
+
+#: templates/quizsetting.php:4
+msgid "Login / Email"
+msgstr ""
+
+#: templates/quizsetting.php:6
+msgid "Dialogs"
+msgstr ""
+
+#: templates/quizstat.php:7
+msgid "Statistics"
+msgstr ""
+
+#: templates/quizstat.php:10
+msgid "Logs"
+msgstr ""
+
+#: templates/quizstat.php:11
+msgid "Detailed Report"
+msgstr ""
+
+#: templates/report.php:6
+msgid "LeaderBoard"
+msgstr ""
+
+#: templates/report.php:7
+msgid "Charts"
+msgstr ""
+
+#: templates/report.php:12
+msgid "Gloabal leaderboard"
+msgstr ""
+
+#: templates/report.php:13
+msgid "Quiz Specific"
+msgstr ""
+
+#: templates/report.php:74 templates/report.php:137
+msgid "No Leaderboards present"
+msgstr ""
+
+#: templates/report.php:167 templates/report.php:172 templates/report.php:266
+msgid "Chart Type"
+msgstr ""
+
+#: templates/report.php:167 templates/report.php:172
+msgid "Assigned Quiz ID"
+msgstr ""
+
+#: templates/report.php:193
+msgid "No charts present"
+msgstr ""
+
+#: templates/report.php:205 templates/report.php:228
+msgid "Leaderboard Name"
+msgstr ""
+
+#: templates/report.php:207 templates/report.php:230 templates/report.php:289
+msgid "Order"
+msgstr ""
+
+#: templates/report.php:207 templates/report.php:230
+msgid "Top"
+msgstr ""
+
+#: templates/report.php:207 templates/report.php:230
+msgid "Bottom"
+msgstr ""
+
+#: templates/report.php:209 templates/report.php:232
+msgid "Leaders"
+msgstr ""
+
+#: templates/report.php:213 templates/report.php:236
+msgid "Total Points Collected"
+msgstr ""
+
+#: templates/report.php:215
+msgid "Number of unique tests taken"
+msgstr ""
+
+#: templates/report.php:241 templates/report.php:300
+msgid "Quiz"
+msgstr ""
+
+#: templates/report.php:243
+msgid "Select a quiz"
+msgstr ""
+
+#: templates/report.php:265
+msgid "Chart Name"
+msgstr ""
+
+#: templates/report.php:268
+msgid "select chart type"
+msgstr ""
+
+#: templates/report.php:269
+msgid "Bar Chart"
+msgstr ""
+
+#: templates/report.php:270
+msgid "Pie Chart"
+msgstr ""
+
+#: templates/report.php:271
+msgid "Line Chart"
+msgstr ""
+
+#: templates/report.php:275
+msgid "Width"
+msgstr ""
+
+#: templates/report.php:277 templates/report.php:284
+msgid "Pixel"
+msgstr ""
+
+#: templates/report.php:278 templates/report.php:285
+msgid "Percentage"
+msgstr ""
+
+#: templates/report.php:282
+msgid "Height"
+msgstr ""
+
+#: templates/report.php:292
+msgid "Ascending"
+msgstr ""
+
+#: templates/report.php:293
+msgid "Descending"
+msgstr ""
+
+#: templates/report.php:294
+msgid "Fixed order"
+msgstr ""
+
+#: templates/report.php:302
+msgid "Select quiz"
+msgstr ""
+
+#: templates/report.php:316
+msgid "Quiz Generic"
+msgstr ""
+
+#: templates/report.php:316
+msgid "User Specific"
+msgstr ""
+
+#: templates/report.php:317 templates/report.php:334
+msgid "Option"
+msgstr ""
+
+#: templates/report.php:320
+msgid "By Grades"
+msgstr ""
+
+#: templates/report.php:321
+msgid "By Point"
+msgstr ""
+
+#: templates/report.php:322
+msgid "By %Correct Answer"
+msgstr ""
+
+#: templates/report.php:335
+msgid "By Question Category"
+msgstr ""
+
+#: templates/report.php:336
+msgid "By Points"
+msgstr ""

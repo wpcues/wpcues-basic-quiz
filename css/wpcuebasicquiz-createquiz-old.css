@@ -1,0 +1,281 @@
+#emailnotificationtab,#progressscreen,#quiz_options_section,#scoialshare{margin:0em 0em;padding:1em 1em;width:96%;}
+#basictab,#customcss{margin:0em 0em;padding:1em 0.25em 1em 1em;width:96%;}
+.procontent::after{font:400 1.5em/1 dashicons;content: "\f312";color:#B1FB17; vertical-align: -50%;cursor:pointer;cursor:hand;}
+.rightsidebarspan{margin:0em 2em 0em 0em;}
+#quizbasicsetting{margin:6px 0 0;padding: 0 12px 12px;
+line-height: 1.4em;
+font-size: 13px;}
+#poststuff h2 {
+display: block;
+font-size: 1em;
+margin:0.25em 0em;padding:0.25em 0em;
+font-weight: 600;
+}
+a.disabled{
+   pointer-events: none;
+   cursor: default;
+}
+#add_grade_button{margin:0em 1em;padding:0em 0.5em;}
+#finalgrade{margin:0em 1em;padding:0em 0.5em;}
+.gradegrouptools{width:100%;margin:0.25em 0em;padding:0em 0em 1em 0em;}
+#gradegrouptitle{padding:0em 0.75em;font-size:1.2em;line-height:100%;align:center;height:1.7em;width:100%;outline:0;margin:0;background-color:#fff}
+#questions_section,#newsectionform{width:95%;margin:0;padding:1em 1em;min-height:5em;}
+#main_section{
+width:94%;
+margin:0 auto;
+background-color:#fff;
+display:block;
+padding:0 2em;
+overflow:hidden;
+}
+#divbuttons{width:100%;float:left;margin:0em;padding:0em;min-height:1em;}
+#addedquestion{width:100%;}
+.savequestion{
+position: relative;
+width: 100%;
+float:left;
+margin:1em 0em;}
+.save_question_button,.cancel_question_button,.save_section_button,.cancel_section_button{float:right;width:20%;padding:0.5em 0.25em;}
+.savequestion .button-primary{margin:0em 1em;}
+.question_top {
+width:100%;
+float:left;
+margin:0;
+padding: 1em 0em 0em 0em;
+}
+#extradiv{width:100;float:left;margin:0;padding:0;min-height:1em;}
+.item_section,#answereditor{width:100%;
+float:left;
+margin:0;
+padding: 1em 0em 0em 0em;}
+.question_title {
+margin: 0;
+float: left;
+}
+
+.item_top_wrapper {
+overflow: hidden;
+}
+.row-number-wrapper{width:10%;padding:0em 0.1em;background:cyan;color: #262626;text-align: center;}
+.handlerow{width:5%;cursor:pointer;padding:0em 0.1em;}
+.rowdet.closed .handlerow:before{font:400 2em/1 dashicons;content:"\f140";}
+
+.rowdet .handlerow:before{font:400 2em/1 dashicons;content:"\f142";}
+.rowtitle .rowshort{display:block;overflow:hidden;}
+.rowtitle .rowfull{display:none;}
+.rowtitle .rowshort,.rowfull,.row-sections{width:100%;}
+.row-actions a{color:#0074a2;cursor:auto;font-size:1.3em;line-height:1.5em;}
+.ediselected{background:#F2F5A9;}
+.justupdated{background:#DF7401;}
+.item_number_wrapper {
+float: left;
+width: 6em;
+height: 5em;
+background-color: cyan;
+color: #262626;
+text-align: center;
+font-size: 2.8em;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+padding-top: 0.8em;
+font-family:Helvetica,Arial,sans-serif;
+}
+.answers_section{position: relative;margin:1px 0px;padding:1px 0px;
+}
+.answers {
+margin-top: 0.2em;
+}
+.answers_top {
+overflow: hidden;
+padding: 0.1em;
+}
+.answers_title {
+margin: 0;
+float: left;
+}
+.answer_container{margin:2px 0px;}
+.hiddencont{display:none;}
+.showcont{display:block;}
+.answer_inner {
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+margin:0.2em 0.2em;
+padding: 0.5em;
+
+overflow: hidden;
+}
+.answerclosetools{width:100%;margin:0;padding:0;height:2em;}
+.answeraddtools{width:100%;margin:0;padding:0;height:2em;}
+.gradeclosetools{width:100%;margin:0;padding:0;height:1em;}
+.gradetext{float:left;width:90%;}
+.grade_close_button{
+float: right;
+width: 3.6em;
+text-align: center;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+display: block;
+border: 0.1em solid #999;
+color: #666;
+cursor: pointer;
+background: #eee;
+}
+.dep_close_button,.answer_close_button {
+float: right;
+width: 3.6em;
+text-align: center;
+box-sizing: border-box;
+-moz-box-sizing: border-box;
+border: 0.1em solid #999;
+background: #eee;
+margin-top: 0.6em;
+display: block;
+color: #666;
+cursor: pointer;
+}
+
+
+#importquestion,#add_section_button{margin:0px 5px;padding:0 5px;}
+.add_answer_button_contaniner{width:100%;margin:0em;padding:0em;height:2em;}
+.add_answer_button {
+float:right;
+width:20%;
+}
+.answers_info{margin:0.5em 0.25em;padding:0.5em 0.25em;}
+.answer_additional{width:100%;margin:0em;padding:0em;}
+.ui-tabs .ui-tabs-panel{width:100%;margin:0;padding:1em 0em;float:left;background:#f9f9f9;}
+.ui-tabs .ui-tabs-panel:nth-child(odd){background:#f9f9f9;}
+.wp-dialog{display:none;}
+#fileupload{width:100%;}
+ul.children{margin:0px 20px;}
+#preview-action{display:none;}
+.entitymsg{font-size: 0.875em;margin:0em 0.5em;padding:0.5em 1em;}
+.entitymsg:before{font:400 1.4em/1 dashicons;content: "\f339";padding:0em 0.5em;}
+span.entitymsg:before{font:400 1em/1 dashicons;content: "\f155";;padding:0em 0.5em;}
+.pinit{margin:1em 0em 0em 0em;}
+.pinit:before{font:400 2em/1 dashicons;content: "\f223";padding:0em 0.25em;}
+.pinit ul{margin:0em 1.75em;padding:0em 1em;}
+h3.smallheader{
+font-size: 1em;
+padding: 0em 0em;
+margin: 1em 0em 0em 0em;
+font-weight:bold;
+line-height: 2;
+}
+.no-close .ui-dialog-titlebar
+{
+    display:none;
+}
+.butright{float:right;}
+.hiddendiv{display:none;}
+ol.createquestlist{list-style-type:upper-alpha;}
+input#shortcode-field{
+	background: #FFF;
+	border: none;
+	height:2em;
+	width: 10em;
+}
+
+.questrowactions,.rowactions {
+color: #ddd;
+font-size: 1.3em;
+display:none;
+padding: 0.2em 0 0;
+}
+.questrowactions a,.rowactions a {
+color: #0074a2;
+cursor: auto;
+font-size: 0.75em;
+line-height: 0.925em;
+}
+.addedquesttools{float:right;width:100%;}
+.sortquest,.normview,.questview{float:right;margin:0em 0.25em;}
+.sortquest:after{font:400 2em/1 dashicons;content: "\f156";}
+.normview:after{font:400 2em/1 dashicons;content: "\f164";}
+.questview:after{font:400 2em/1 dashicons;content: "\f163";}
+.sortquest,.normview,.questview{color:#ccc;}
+.normview:hover,.sortquest:hover,.questview:hover{color:#000;}
+.normview.selected,.sortquest.selected,.questview.selected{color:#000;}
+.questiontools{width:100%;float:left;overflow:hidden;margin:0em 0em 1.25em 0em;padding:0em 0em 1em 0em;height:2.25em;}
+.questiontypetool,.questioncattool,.sectool{margin:0.1em 0.5em;padding:0em 0.5em;float:left;min-width:20%;}
+/*.questiontypetool{float:left;}
+.questioncattool{float:right;} 
+.questioncattool #questcatform{float:right;}*/
+.perssectool,.persquestioncattool{width:50%;margin:0em 0.5em 1.5em 0.5em;float:left;}
+.gradegroupadded{width:50%;margin:0;padding:0;}
+#importeditor{width:100%;}
+#importtab-1,#importtab-2,#importtab-3,#importtab-4{width:100%;margin:0;padding:0;overflow:hidden;}
+.wrapperquizimp{display:table;width:100%;margin:0;padding:0;}
+.leftquizimp{display:table-cell;width:30%;margin:0em;padding:0em 0.5em 0em 0em;border-right:0.2em solid #eee;}
+.leftquizimp ul{list-style-type:none;margin:0.5em 0em;padding:0em;width:100%;}
+ul.tabbedlist li{width:100%;}
+.rightquizimp{display:table-cell;width:68.7%;margin:0em;padding:0em 0.5em;background-color:#fff;}
+.importbuttons{width:100%;margin:0em;padding:0.25em 0em;float:left;border-top:0.2em solid #fff;}
+.saveimportquest,.cancelimportquest{float:right;width:20%;margin:0.25em 0.5em;padding:1em 0.5em;}
+.selectallbutton{width:100%;margin:0.25em 0em;padding:0.5em 0em;}
+.selectallquest{float:right;margin:0.5em 0em;padding:0.2em 0em;}
+.selquesttable{width:100%;margin:0.25em 0em;padding:0em;}
+.leftquizimp a{text-decoration:none;}
+.quiztitle{margin:0em 1em 0em 0em;padding:0em 1em;}
+.pager a.active{color:blue;font-weight:600;}
+ul.quizsetting li{margin:0.5em;padding:0.25em;}
+.wpprocuesettingsubmit{width:90%;margin:2em;}
+.wpprocuesettingsubmit .button{margin:1em 5em;width:20%;}
+.quizstatlist{width:98%;margin:0em;padding:0em 0.5em;}
+.quizstatlist thead{width:100%;margin:0;padding:0;}
+.quizstatlist tr td{line-height:2em;font-size:1em;}
+.quizstatlist a.row-title{font-size:1.2em;line-height:1em;font-weight:600;}
+.quizstatlist .row-actions a{font-size:1em;line-height:1em;}
+#quizeditor{width:100%;margin:0;padding:0;float:left;min-height:2em;}
+#questioneditor{width:100%;margin:0;padding:0;float:left;}
+#answereditor{width:100%;margin:1em 0em;padding:0;}
+#secondaryeditor{width:100%;}
+#leftsecondarybar{width:70%;}
+#rightsecondarybar{width:30%;background:#efefef;}
+.answerclosetoos{width:100%;margin:0em;padding:0;}
+.ui-tabs.ui-widget-header { 
+    background: transparent; 
+    border: none; 
+    border-bottom: 0.1em solid #c0c0c0; 
+    -moz-border-radius: 0em; 
+    -webkit-border-radius: 0em; 
+    border-radius: 0em; 
+    border-radius: 0em; 
+} 
+.ui-tabs .ui-tabs-nav {border:none;background:#f9f9f9;}
+ul.outertabs li{width:16.2425%;overflow:hidden;}
+ul.outertabs li.progresscreen{width:18.6425%;}
+#tabs{padding:0;border:0;margin:0;}
+#tabs-1 ul.innertabs {width:90%;margin:1em 1em;}
+ul.innertabs li{width:22%;}
+ul.outertabs  li a,ul.innertabs li a{width:94.25%;border:0px;text-align:center;font-size:0.925em;}
+.quizstattab ul.outertabs  li a{font-size:1em;}
+ul.reporttabs li a{font-size:1.25em;}
+.ui-tabs .ui-tabs-nav li{background:#CFD4Ef;}
+.ui-tabs .ui-tabs-nav li a{background:#CFD4Ef;color:#000;border:0px;}
+.ui-tabs .ui-tabs-nav li.ui-tabs-active{background:#DFE3EE;}
+.ui-tabs .ui-tabs-nav li.ui-tabs-active a{background:#DFE3EE;color:#000;border:0px;}
+#gradeeditor{width:99%;margin:0.5em 1em;padding:0em 0em;}
+#gradeeditortabs{width:100%;padding:0em;margin:0em;}
+#gradeeditortabs.ui-tabs .ui-tabs-nav {width:95%;margin:0em;padding:0em 0.5em;border:none;background:#f1f1f1;;}
+#gradeeditortabs.ui-tabs .ui-tabs-panel{width:95%;margin:0em;padding:0.5em 0.5em;border:none;background:#f1f1f1;}
+#gradeeditortabs.ui-tabs .ui-tabs-panel:nth-child(odd){border:none;background:#f9f9f9;}
+.ui-tabs{border:none;}
+.tabcontainer{position:relative;z-index:1;}
+.tabcontent{position:relative;z-index:-1000;}
+ul.inneranstabs li{width:25%;}
+ul.inneranstabs li a{width:92%;border:0;text-align:center;}
+ul.innernumtabs li{width:5%;}
+ul.innernumtabs li a{width:73%;border:0;text-align:center;}
+.leftcolumn{width:30%;}
+.rightcoumn{width:70%;}
+#side-sortables li{margin:0.25em 0em;padding:0.25em 0em;}
+.settingtab{margin:0.5em 1em;padding:0.5em 0.5em;}
+.settingtitle{color:red;}
+.quizstattab{margin:1em 0.25em;padding:0.5em 1em;}
+#logtablestat,#detailedreportstat{margin:1em 0.25em;padding:0.5em 1em;}
+.innertabpanel{margin:0.5em 1em;padding:0.5em 1em;}
+#emailtabs{margin:2em 0.5em;padding:2em 0.5em;}
+#emailtabs .ui-tabs-nav{padding:0.5em 2em;}
+.settingmsg{margin:0.5em 0em;padding:1em 0em;letter-spacing:1px;line-height:1.5em;}
+.procontent::after{font:400 1.5em/1 dashicons;content: "\f312";color:#B1FB17; vertical-align: -50%;cursor:pointer;cursor:hand;}

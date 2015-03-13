@@ -1,0 +1,150 @@
+/*Start Page having quiz description and start button*/
+#quizstartpage{
+width:98%;margin:0.5em 0.5em;padding:0.5em 0.5em;
+}
+/*Main page having questions*/
+#quizmainpage{
+width:98%;margin:0.5em 0.5em;padding:0.5em 0.5em;
+}
+/*Final resut page */
+#quizfinalpage{
+width:98%;margin:0.5em 0.5em;padding:0.5em 0.5em;
+}
+/*Completion Screen (Progress) page */
+#quizcompletepage{
+width:98%;margin:0.5em 0.5em;padding:0.5em 0.5em;
+}
+/*Intermediate Screen (Progress) page */
+#quizintermediatepage{
+width:98%;margin:0.5em 0.5em;padding:0.5em 0.5em;
+}
+/* Quiz Description block*/
+#quizdesc{
+width:100%;margin:0em 0em 0.5em 0em;padding:0.5em 0em;
+}
+/*Intermediate Screen content*/
+#quizintermediatecontent{
+width:100%;margin:0em 0em 0.5em 0em;padding:0.5em 0em;
+}
+/*Completion Screen Content */
+#quizcompletecontent{
+width:100%;margin:0em 0em 0.5em 0em;padding:0.5em 0em;
+}
+/* Final result page content */
+#quizfinalcontent{
+width:100%;margin:0em 0em 0.5em 0em;padding:0.5em 0em;
+}
+/* Main Page Content */
+/* Quiz Duration block */
+#quizduration{}
+/*Timer Content */
+#wpcuebasicquiztimercontent{width:100%;}
+#wpcuebasicquiztimercontent ul{list-style-type:none;margin:0;padding:0;}
+#wpcuebasicquiztimercontent ul li{display:inline;}
+.wpcuebasicquiztimertimeunit{ font-family: 'BebasNeueRegular', Arial, Helvetica, sans-serif;
+    font-size: 36px;
+    text-align: center;
+    text-shadow: 0 0 5px #00c6ff;}
+.wpcuebasicquiztimerpoint{}
+/*Main Page Content*/
+#quizmaincontent{width:100%;}
+/*Questions Page block*/
+.questpage{width:100%;}
+/*Section block*/
+.rowsec{width:100%;,overflow:hidden;}
+/*Question parent Block*/
+.rowquest{width:100%;,overflow:hidden;}
+.questnumber{float:left;width:8%;}
+/*Main Question Block*/
+.mainquest{float:left;width:92%;}
+/*Question text*/
+.questdesc{}
+/*Answer Block*/
+.answerdesc{}
+/*Standard Question (Single Choice /Multiple Choice) List*/
+ul.standardquestion{list-style-type:none;}
+/*'Match the answers' Question*/
+.leftcolumnquest{}
+ul.leftmatchquestion{list-style-type:none;}
+.rightcolumnquest{}
+ul.rightmatchquestion{list-style-type:none;}
+ul.resultbox{min-height:100px;border:0px solid;list-style-type:none;}
+/*Sort Question*/
+ul.sortquestion{list-style-type:none;margin:0.125em 0em;padding:0;width:50%;}
+ul.sortquestion li{margin:0em 0.25em;padding:0.125em 0.125em;}
+/*Fill the gaps question*/
+input.answrfillthegaps{}
+/* True/False Question */
+ul.truefalsequestion{}
+/*Question Tools*/
+div.questtools{}
+p.questtoolsmsg{}
+div.questtoolsicons{}
+ul.questtootlslist{margin-left:3em;padding-left:2em;}
+ul.questtootlslist li{display: inline;list-style-type: none;padding-right: 20px;}
+div.questtoolsblock{}
+div.answercontainer{}
+div.reportquestcontainer{}
+input.reportquesttitle{}
+input.reportquestdesc{}
+input.saveerror{}
+div.reportquestadded{}
+div.errorentity{}
+div.errortitle{}
+div.errordesc{}
+div.erroredit{width:4em;color:blue;}
+div.errordelete{width:4em;color:green;}
+div.showhintcontainer{}
+/*Report Block*/
+ul.quizreport{}
+ul.singlerepans{}
+ul.multiplerepans{}
+ul.matchleftans{}
+ul.matchrightans{}
+div.matchrepans{}
+ul.matchrepans{}
+div.matchcorans{}
+ul.matchcorans{}
+ul.sortans{}
+div.sortrepans{}
+ul.sortrepans{}
+div.sorcorans{}
+ul.sortcorans{}
+span.fillgapsrep{}
+span.correctgapsans{}
+span.wronggapsans{}
+ul.gapsrepans{}
+li.repgaplist{}
+li.correctgaplist{}
+.correctansreplied{background:green;}
+.wrongansreplied{background:red;}
+.ansreplied{background:yellow;}
+.correctans{background:blue;}
+/* Start / Continue Button Block */
+.startbutton{}
+/*Login Button block */
+.logincontrol{}
+/*Start button */
+#startquizbutton{}
+/*Continue button */
+#continuequizbutton{}
+/*Login Button*/
+#quizloginbutton{}
+/* Next /prev button block */
+.paginationbutton{}
+/*Previous Page button*/
+.prevpagebutton{}
+/*Next page button */
+.nextpagebutton{}
+/* Submit/ Save button block */
+.quizsubmittools{}
+/* Submit Quiz button */
+.submitquizbut{}
+/*Save Quiz button*/
+.savequizbut{}
+.entitymsg{font-size: 0.875em;margin:0.5em 0.5em;padding:0.5em 1em;}
+.wp-dialog{display:none;}
+#spinnerdiv{width:100%;float:left;margin:0em 0em;padding:0em;}
+#spinnerdiv span.spinner{background:url(../img/spinner-2x.gif) 0 0/40px 40px no-repeat;width:90%;margin:0em 10.5em;padding:4em 4em;}
+#processdiv{width:100%;float:left;display:none;margin:3em 0em;padding:1em 0em;}
+#processtextdiv{width:100%;float:left;margin:0.5em 0em;padding:0em 1em;}

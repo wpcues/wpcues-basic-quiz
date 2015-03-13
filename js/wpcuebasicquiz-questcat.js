@@ -1,0 +1,11 @@
+jQuery(document).ready(function($){
+$('#menu-posts').removeClass('wp-has-current-submenu');
+$('a[href="edit.php"]').removeClass('wp-has-current-submenu');
+$('#toplevel_page_edit-post_type-wpcuebasicquiz').removeClass('wp-not-current-submenu');
+$('#toplevel_page_edit-post_type-wpcuebasicquiz').children('a[href="edit.php?post_type=wpcuebasicquiz"]').removeClass('wp-not-current-submenu');
+$('#toplevel_page_edit-post_type-wpcuebasicquiz').addClass('wp-has-current-submenu');
+$('#toplevel_page_edit-post_type-wpcuebasicquiz').children('a[href="edit.php?post_type=wpcuebasicquiz"]').addClass('wp-has-current-submenu');
+$curvar=$('a[href="edit-tags.php?taxonomy=wpcuebasicquestcat&post_type=wpcuebasicquestion"]');
+$curvar.addClass('current');
+$curvar.parent('li').addClass('current');
+});
