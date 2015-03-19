@@ -91,7 +91,6 @@ $(document).on('click','.questremove',function(event){
 event.preventDefault();
 var $par=$(this).closest('.questentity');
 if($('#original_post_status').val() != 'publish'){
-	alert('pratima aaj sabse chudwayegi');
 $par.find(':input').not(':button').each(function(i,elem){
 var input=$(elem);
 input.prop('disabled',false);
@@ -405,7 +404,6 @@ $.ajax({
 							$('#questiontable > tbody').append($fincontent);
 						}
 					}else{
-						alert('pratima ki gand');
 						$('#questiontable > tbody').append($fincontent);
 					}
 			}
